@@ -6,7 +6,6 @@
     <exclude-pattern>BeaverModules/*</exclude-pattern>
 
     <rule ref="PSR1"/>
-    <rule ref="PSR12"/>
 
     <!--*************************************************************************************************************-->
     <!-- CODE SNIFFER DEFAULT SNIFFS -->
