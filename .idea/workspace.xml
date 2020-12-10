@@ -1,0 +1,123 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="9479759b-66c4-4cf7-93d7-2145aef35f63" name="Default Changelist" comment="">
+      <change beforePath="$PROJECT_DIR$/ruleset.xml" beforeDir="false" afterPath="$PROJECT_DIR$/ruleset.xml" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ComposerSettings">
+    <execution />
+  </component>
+  <component name="FileColors">
+    <fileColor scope="Non-Project Files (Material Default)" color="2E3C43" />
+    <fileColor scope="Non-Project Files (Material Darker)" color="323232" />
+    <fileColor scope="Non-Project Files (Material Lighter)" color="eae8e8" />
+    <fileColor scope="Non-Project Files (Material Palenight)" color="2f2e43" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1lPhXlFSzyTTJX9K4r2pkPTjXGH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="nodejs_package_manager_path" value="npm" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+    <property name="vue.rearranger.settings.migration" value="true" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="9479759b-66c4-4cf7-93d7-2145aef35f63" name="Default Changelist" comment="" />
+      <created>1607504676159</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1607504676159</updated>
+      <workItem from="1607504677426" duration="10709000" />
+    </task>
+    <task id="LOCAL-00001" summary="Add basic ruleset with defined composer dev dependencies.">
+      <created>1607508184212</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1607508184212</updated>
+    </task>
+    <task id="LOCAL-00002" summary="Add readme and rename name of xml litea ruleset.">
+      <created>1607595008748</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1607595008748</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <option name="CHECK_CODE_SMELLS_BEFORE_PROJECT_COMMIT" value="false" />
+    <option name="CHECK_NEW_TODO" value="false" />
+    <MESSAGE value="Add basic ruleset with defined composer dev dependencies." />
+    <MESSAGE value="Add readme and rename name of xml litea ruleset." />
+    <option name="LAST_COMMIT_MESSAGE" value="Add readme and rename name of xml litea ruleset." />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="381" y="151" key="#PHP_CodeSniffer" timestamp="1607511922728">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="381" y="151" key="#PHP_CodeSniffer/0.23.1792.1097@0.23.1792.1097" timestamp="1607511922728" />
+    <state x="356" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1607524580125">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="356" y="226" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1607524580125" />
+    <state x="108" y="49" key="CommitChangelistDialog2" timestamp="1607595008590">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="108" y="49" key="CommitChangelistDialog2/0.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1607595008590" />
+    <state x="347" y="94" key="CommitChangelistDialog2/0.23.1792.1097@0.23.1792.1097" timestamp="1607508286001" />
+    <state x="583" y="478" key="ComposerInitDialogKey" timestamp="1607506693211">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="583" y="478" key="ComposerInitDialogKey/0.23.1792.1097@0.23.1792.1097" timestamp="1607506693211" />
+    <state x="87" y="23" key="DiffContextDialog" timestamp="1607595066934">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="87" y="23" key="DiffContextDialog/0.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1607595066934" />
+    <state x="180" y="122" key="DiffContextDialog/0.23.1792.1097@0.23.1792.1097" timestamp="1607508197452" />
+    <state x="396" y="248" key="Vcs.Push.Dialog.v2" timestamp="1607595112206">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="396" y="248" key="Vcs.Push.Dialog.v2/0.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1607595112206" />
+    <state x="396" y="248" key="Vcs.Push.Dialog.v2/0.23.1792.1097@0.23.1792.1097" timestamp="1607508282913" />
+    <state x="100" y="123" width="1592" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog" timestamp="1607593718334">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="100" y="123" width="1592" height="897" key="com.intellij.history.integration.ui.views.FileHistoryDialog/0.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1607593718334" />
+    <state x="627" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2" timestamp="1607593183761">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="627" y="475" key="com.intellij.openapi.vcs.update.UpdateOrStatusOptionsDialogupdate-v2/0.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1607593183761" />
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup" timestamp="1607606063382">
+      <screen x="0" y="23" width="1792" height="1097" />
+    </state>
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/0.-1057.1920.1057/0.23.1792.1097@0.23.1792.1097" timestamp="1607606063382" />
+    <state x="477" y="88" width="838" height="1032" key="search.everywhere.popup/0.23.1792.1097@0.23.1792.1097" timestamp="1607512907221" />
+  </component>
+</project>
