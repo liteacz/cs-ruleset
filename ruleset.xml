@@ -6,14 +6,7 @@
     <exclude-pattern>BeaverModules/*</exclude-pattern>
 
     <rule ref="PSR1"/>
-    <rule ref="PSR12">
-
-        <!-- **************** -->
-        <!-- Has to be fixed manually -->
-        <!-- **************** -->
-        <exclude name="Squiz.Scope.MethodScope.Missing"/><!-- interface \Nette\Application\IResponse has method without visibility -->
-
-    </rule>
+    <rule ref="PSR12"/>
 
     <!--*************************************************************************************************************-->
     <!-- CODE SNIFFER DEFAULT SNIFFS -->
