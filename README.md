@@ -21,7 +21,7 @@ PHP Code Sniffer ruleset used by our projects
     </ruleset>
     ```
     
-3. You can override the default rule-set using <rule> tag
+3. You can override the default rule-set using the `<rule>` tag
 
     ```xml
     <?xml version="1.0"?>
