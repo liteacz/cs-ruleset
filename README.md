@@ -1,23 +1,29 @@
 # Litea codesniffer rules
 PHP Code Sniffer ruleset used by our projects
 
-##How to use
+## Usage
 
-1, Install this package via composer
+1. Install this package via composer
 
-    composer require litea/cs-ruleset
+    ```shell
+    $ composer require litea/cs-ruleset
+    ```
     
-2, in root folder create ruleset.xml like this
+2. Create ruleset.xml in your project root
 
+
+    ```xml
     <?xml version="1.0"?>
     <ruleset name="Litea">
         <rule ref="./vendor/litea/cs-ruleset">
             <!-- There you can put overriding codesniffer rules -->
         </rule>
     </ruleset>
+    ```
     
-3, if you want override default rulesets you can put to ruleset.xml for example like this:
+3. You can override the default rule-set using <rule> tag
 
+    ```xml
     <?xml version="1.0"?>
     <ruleset name="Litea">
         <rule ref="./vendor/litea/cs-ruleset">
@@ -27,4 +33,4 @@ PHP Code Sniffer ruleset used by our projects
             <message>Variable "%s" not allowed in double quoted string; use sprintf() instead</message>
         </rule>
     </ruleset>
-
+    ```
