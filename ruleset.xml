@@ -96,7 +96,5 @@
     <!--*************************************************************************************************************-->
 
     <config name="installed_paths" value="vendor/slevomat/coding-standard"/>
-    <rule ref="SlevomatCodingStandard.TypeHints.ReturnTypeHintSpacing"/>
-    <rule ref="SlevomatCodingStandard.Namespaces.FullyQualifiedGlobalFunctions"/>
 
 </ruleset>
