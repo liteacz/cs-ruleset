@@ -3,7 +3,9 @@
     <description>Litea coding standard.</description>
 
     <arg name="tab-width" value="4"/>
-    <exclude-pattern>BeaverModules/*</exclude-pattern>
+    <arg name="colors"/> <!-- Enable colors -->
+    <arg value="p"/> <!-- Show progress bar -->
+    <arg value="s"/> <!-- Zobrazit v reportu jméno Sniffu který reportoval chybu -->
 
     <rule ref="PSR1"/>
 
@@ -35,6 +37,7 @@
     <rule ref="Generic.PHP.CharacterBeforePHPOpeningTag"/>
     <rule ref="Generic.PHP.DeprecatedFunctions"/>
     <rule ref="Generic.PHP.ForbiddenFunctions" />
+    <rule ref="Generic.PHP.LowerCaseConstant"/>
     <!-- <rule ref="Generic.PHP.NoSilencedErrors" /> -->
 
     <rule ref="PEAR.Classes.ClassDeclaration"/>
@@ -91,10 +94,23 @@
         <severity>5</severity><!-- turned off by PSR2 -> turning on with default severity -->
     </rule>
 
-    <!--*************************************************************************************************************-->
-    <!-- ADDITIONAL SLEVOMAT SNIFFS -->
-    <!--*************************************************************************************************************-->
+    *************************************************************************************************************
+    ADDITIONAL SLEVOMAT SNIFFS
+    *************************************************************************************************************
 
     <config name="installed_paths" value="vendor/slevomat/coding-standard"/>
-
+    <rule ref="SlevomatCodingStandard.TypeHints.DeclareStrictTypes">
+        <properties>
+            <property name="newlinesCountAfterDeclare" value="2"/>
+            <property name="newlinesCountBetweenOpenTagAndDeclare" value="2"/>
+            <property name="spacesCountAroundEqualsSign" value="0"/>
+        </properties>
+    </rule>
+    <rule ref="SlevomatCodingStandard.Classes.DisallowMultiConstantDefinition" />
+    <rule ref="SlevomatCodingStandard.Whitespaces.DuplicateSpaces">
+        <properties>
+            <property name="ignoreSpacesBeforeAssignment" value="false"/>
+            <property name="ignoreSpacesInParameters" value="false"/>
+        </properties>
+    </rule>
 </ruleset>
