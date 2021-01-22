@@ -94,9 +94,9 @@
         <severity>5</severity><!-- turned off by PSR2 -> turning on with default severity -->
     </rule>
 
-    *************************************************************************************************************
-    ADDITIONAL SLEVOMAT SNIFFS
-    *************************************************************************************************************
+    <!--*************************************************************************************************************-->
+    <!--ADDITIONAL SLEVOMAT SNIFFS-->
+    <!--*************************************************************************************************************-->
 
     <config name="installed_paths" value="vendor/slevomat/coding-standard"/>
     <rule ref="SlevomatCodingStandard.TypeHints.DeclareStrictTypes">
