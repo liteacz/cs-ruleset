@@ -2,7 +2,7 @@
     "name": "litea/cs-ruleset",
     "description": "Code Sniffer ruleset used by our projects",
     "license": "MIT",
-    "version": "0.0.3",
+    "version": "0.0.4",
     "type": "library",
     "authors": [
         {
