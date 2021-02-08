@@ -2,7 +2,6 @@
 <ruleset name="Litea default rulesets">
     <description>Litea coding standard.</description>
 
-    <arg name="tab-width" value="4"/>
     <arg name="colors"/> <!-- Enable colors -->
     <arg value="p"/> <!-- Show progress bar -->
     <arg value="s"/> <!-- Zobrazit v reportu jméno Sniffu který reportoval chybu -->
