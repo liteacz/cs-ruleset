@@ -1,6 +1,6 @@
 {
   "name": "litea/cs-ruleset",
-  "description": "Code Sniffer ruleset used by our projects",
+  "description": "Opinionated PHP Code Sniffer rule-set used by Litea Solution",
   "license": "MIT",
   "version": "0.1.1",
   "type": "library",
