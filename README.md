@@ -1,5 +1,6 @@
-# Litea codesniffer rules
-PHP Code Sniffer ruleset used by our projects
+# Litea CodeSniffer rule-set
+
+Opinionated PHP Code Sniffer rule-set used by Litea Solution.
 
 ## Usage
 
@@ -16,7 +17,7 @@ PHP Code Sniffer ruleset used by our projects
     <?xml version="1.0"?>
     <ruleset name="Litea">
         <rule ref="./vendor/litea/cs-ruleset">
-            <!-- There you can put overriding codesniffer rules -->
+            <!-- Here you can put overriding code sniffer rules -->
         </rule>
     </ruleset>
     ```
