@@ -6,7 +6,7 @@ PHP Code Sniffer ruleset used by our projects
 1. Install this package via composer
 
     ```shell
-    $ composer require litea/cs-ruleset
+    $ composer require litea/cs-ruleset --dev
     ```
     
 2. Create ruleset.xml in your project root
